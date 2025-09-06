@@ -1,0 +1,22 @@
+[
+  {"username": "admin1", "password": "admin123", "role": "admin"},
+  {"username": "engineer1", "password": "pass123", "role": "engineer"},
+  {"username": "supervisor1", "password": "sup123", "role": "supervisor"},
+  {"username": "inspector1", "password": "insp123", "role": "inspector"},
+  {"username": "technician1", "password": "tech123", "role": "technician"},
+  {"username": "planner1", "password": "plan123", "role": "planner"},
+  {"username": "qc1", "password": "qc123", "role": "qualitycontrol"},
+  {"username": "manager1", "password": "mgr123", "role": "manager"},
+  {"username": "viewer1", "password": "view123", "role": "viewer"},
+
+  {"username": "scheduler1", "password": "sch123", "role": "scheduler"},
+  {"username": "safety1", "password": "safe123", "role": "safetyofficer"},
+  {"username": "logistics1", "password": "log123", "role": "logistics"},
+  {"username": "inventory1", "password": "inv123", "role": "inventorymanager"},
+  {"username": "docs1", "password": "doc123", "role": "documentation"},
+  {"username": "training1", "password": "train123", "role": "trainingcoordinator"},
+  {"username": "flightops1", "password": "fo123", "role": "flightops"},
+  {"username": "compliance1", "password": "comp123", "role": "complianceofficer"},
+  {"username": "analyst1", "password": "ana123", "role": "dataanalyst"},
+  {"username": "helpdesk1", "password": "help123", "role": "helpdesk"}
+]

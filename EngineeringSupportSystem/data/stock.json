@@ -1,0 +1,5 @@
+[
+  {"part_no": "OIL-ENG-A1", "name": "Engine Oil A1", "qty": 12, "min_qty": 10},
+  {"part_no": "HYD-SEA-100", "name": "Hydraulic Seal 100", "qty": 3, "min_qty": 5},
+  {"part_no": "BOLT-TQ-8MM", "name": "Torque Bolt 8mm", "qty": 120, "min_qty": 50}
+]

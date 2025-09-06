@@ -1,0 +1,6 @@
+[
+  {"tail": "A6-ABC", "model": "A320", "type": "Narrow-body", "base_id": "OOMS", "status": "active"},
+  {"tail": "A6-DEF", "model": "A321", "type": "Narrow-body", "base_id": "OOMS", "status": "active"},
+  {"tail": "HZ-GHI", "model": "B777-300ER", "type": "Wide-body", "base_id": "OERK", "status": "active"},
+  {"tail": "A4-JKL", "model": "E175", "type": "Regional", "base_id": "OOBR", "status": "maintenance"}
+]

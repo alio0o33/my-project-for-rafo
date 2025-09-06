@@ -1,0 +1,10 @@
+{
+  "sessions": [
+    {"id": 1, "title": "Fuel System Safety", "date": "2025-09-20"},
+    {"id": 2, "title": "Landing Gear Overhaul", "date": "2025-10-05"}
+  ],
+  "assignments": [
+    {"user": "engineer1", "session_id": 1, "status": "scheduled"},
+    {"user": "technician1", "session_id": 2, "status": "scheduled"}
+  ]
+}

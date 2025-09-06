@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Check engine oil level",
+    "details": "Refill to recommended level",
+    "assigned_to": "engineer1",
+    "status": "pending",
+    "base_id": "OOMS",
+    "aircraft_tail": "A6-ABC"
+  },
+  {
+    "id": 2,
+    "title": "Repair landing gear strut",
+    "details": "Hydraulic seal replacement",
+    "assigned_to": "technician1",
+    "status": "pending",
+    "base_id": "OOMS",
+    "aircraft_tail": "A6-DEF"
+  },
+  {
+    "id": 3,
+    "title": "QC review: Panel 12",
+    "details": "Verify torque specs & annotations",
+    "assigned_to": "qc1",
+    "status": "in_progress",
+    "base_id": "OERK",
+    "aircraft_tail": "HZ-GHI"
+  }
+]
